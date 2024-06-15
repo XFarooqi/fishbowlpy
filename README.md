@@ -69,3 +69,6 @@ This project is licensed under the [MIT License](https://github.com/mukulbindal/
 ## Contact Information
 
 Feel free to reach out to me with any questions or suggestions. I look forward to hearing from you at mukulbindal170299@gmail.com
+
+## Open Contribution Benefits
+Feel free to reach out to me with any questions or suggestions. I look forward to hearing from you at mukulbindal170299@gmail.com
